@@ -1,2 +1,2 @@
-# npgTest
+# figa
 #npg makskol
