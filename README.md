@@ -1,2 +1,2 @@
-# figa
+# maks
 #npg makskol
